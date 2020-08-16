@@ -1,7 +1,7 @@
 # ML-Bootcamp
 ## You will find here all the material for Week 1 of our ML boot camp. 
 
-### 1. PDF file with instructions to download ANACONDA - this is the installation which gives you python + all required libararies for Data science + Jupyter notebook.
+### 1. You will find pdf ebook (one of my favourates): Go through chapter 1 and 2 ( dont worry if you dont understand anything ) YOu will find how to install ANACONDA, you all must have this installed. 
 Jupyter notebookes are where we would code and interact with python. We will be using this in all our classes.
 
 ### 2. How you use jupyter notebook -
