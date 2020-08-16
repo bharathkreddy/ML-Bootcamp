@@ -13,4 +13,4 @@ Jupyter notebookes are where we would code and interact with python. We will be 
 
 ### if you are note able to do it - dont worry - we will do it together in the next session.
 
-
+### 3. Here is another ebook which i find myself going back to at least once a week:https://runestone.academy/runestone/books/published/thinkcspy/index.html
