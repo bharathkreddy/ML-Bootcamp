@@ -32,6 +32,6 @@
 - [ ] Able to recreate examples i have shown in my jupyter notebook (you will find the link above)
 - [ ] You have tried out examples given in the ebooks.
 
-### Hoping to see you soon in the session.
+### Hoping to see you soon in the session. :+1:
 
 # [www.bharathkreddy.com](https://www.bharathkreddy.com)
