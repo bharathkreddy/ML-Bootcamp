@@ -13,4 +13,10 @@ Jupyter notebookes are where we would code and interact with python. We will be 
 
 ### if you are note able to do it - dont worry - we will do it together in the next session.
 
-### 3. Here is another ebook which i find myself going back to at least once a week:https://runestone.academy/runestone/books/published/thinkcspy/index.html
+### 3. Here is another [ebook](https://runestone.academy/runestone/books/published/thinkcspy/index.html) which i find myself going back to at least once a week
+
+### 4. This is what you must have completed before joining the session on 22nd AUGUST : 
+     a. Installed Anaconda. (see the details in ebook in link 1)
+     b. Be comfortable opening jupyter notebooks. (see the details in ebook in link 1)
+     c. Have basic understanding of python (skim throught the second ebook i have shared in links above)
+   
