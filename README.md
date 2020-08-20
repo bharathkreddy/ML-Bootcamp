@@ -19,4 +19,7 @@ Jupyter notebookes are where we would code and interact with python. We will be 
      a. Installed Anaconda. (see the details in ebook in link 1)
      b. Be comfortable opening jupyter notebooks. (see the details in ebook in link 1)
      c. Have basic understanding of python (skim throught the second ebook i have shared in links above)
+     
+### 5. Download the [Jupyter Notebook](https://github.com/bharathkreddy/ML-Bootcamp/blob/master/ML%20Bootcamp%20session%201.ipynb) i have uploaded in this repositary, in a folder on your PC. Try go through the code, create a new notebook and try replicate some of the stuff or some of the examples from the ebooks i have shared
+
    
