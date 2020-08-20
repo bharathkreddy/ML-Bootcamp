@@ -22,4 +22,15 @@ Jupyter notebookes are where we would code and interact with python. We will be 
      
 ### 5. Download the [Jupyter Notebook](https://github.com/bharathkreddy/ML-Bootcamp/blob/master/ML%20Bootcamp%20session%201.ipynb) i have uploaded in this repositary, in a folder on your PC. Try go through the code, create a new notebook and try replicate some of the stuff or some of the examples from the ebooks i have shared
 
-   
+ ### YOUR CHECKLIST FOR SESSION ON 22nd AUGUST @ 13:30 PM IST
+- [x] Installed Anaconda.
+- [x] You are able to lauch Jupyter notebooks.
+- [x] You are able to open files saved in this repositary on your jupyter notebooks.
+- [x] Download all the e-books i have provided.
+- [x] Read first few chapters from the ebook : Python for data analysis.
+- [ ] Able to recreate examples i have shown in my jupyter notebook (you will find the link above)
+- [ ] You have tried out examples given in the ebooks.
+
+### Hoping to see you soon in the session.
+
+# [www.bharathkreddy.com](https://www.bharathkreddy.com)
