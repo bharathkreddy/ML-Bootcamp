@@ -11,7 +11,7 @@ Jupyter notebookes are where we would code and interact with python. We will be 
      d. This should open jupyter notebook with the file you downloaded visible - click to open the file.
      e. Read through the Jupyter Notebook Documentation.
 
-### if you are note able to do it - dont worry - we will do it together in the next session.
+> if you are note able to do it - dont worry - we will do it together in the next session.
 
 ### 3. Here is another [ebook](https://runestone.academy/runestone/books/published/thinkcspy/index.html) which i find myself going back to at least once a week
 
